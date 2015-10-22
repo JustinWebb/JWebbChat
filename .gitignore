@@ -1,0 +1,5 @@
+# Directories
+_backup
+
+# System files
+.DS_Store
